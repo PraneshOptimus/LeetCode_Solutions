@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2083-three-divisors](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2083-three-divisors) |
 ## Enumeration
 |  |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
+## String
+|  |
+| ------- |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 <!---LeetCode Topics End-->
