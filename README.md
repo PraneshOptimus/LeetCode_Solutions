@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -23,4 +24,8 @@
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
+## Sorting
+|  |
+| ------- |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
