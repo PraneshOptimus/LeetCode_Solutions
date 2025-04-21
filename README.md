@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
@@ -39,6 +40,7 @@
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Hash Table
 |  |
