@@ -41,13 +41,16 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Hash Table
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1635-number-of-good-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1635-number-of-good-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
