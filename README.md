@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
@@ -36,6 +37,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## String
 |  |
@@ -47,10 +49,15 @@
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1635-number-of-good-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
