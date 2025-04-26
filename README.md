@@ -27,6 +27,7 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Simulation
 |  |
@@ -39,6 +40,7 @@
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Search
+|  |
+| ------- |
+| [2210-find-target-indices-after-sorting-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
