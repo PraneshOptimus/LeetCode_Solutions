@@ -28,6 +28,7 @@
 | [2048-build-array-from-permutation](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Simulation
@@ -36,6 +37,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 ## Sorting
 |  |
 | ------- |
