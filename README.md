@@ -10,6 +10,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2083-three-divisors](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2083-three-divisors) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2630-alternating-digit-sum](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2630-alternating-digit-sum) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Enumeration
@@ -39,6 +40,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2639-separate-the-digits-in-an-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 ## Sorting
 |  |
