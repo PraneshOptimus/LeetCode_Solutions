@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0233-number-of-digit-one](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0233-number-of-digit-one) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
@@ -80,4 +81,12 @@
 |  |
 | ------- |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2398-check-if-matrix-is-x-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0233-number-of-digit-one) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
