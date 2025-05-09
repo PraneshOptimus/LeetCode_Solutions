@@ -7,6 +7,7 @@
 | [0171-excel-sheet-column-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0233-number-of-digit-one](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0371-sum-of-two-integers](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
