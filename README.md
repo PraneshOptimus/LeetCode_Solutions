@@ -15,6 +15,7 @@
 | [2083-three-divisors](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2083-three-divisors) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2630-alternating-digit-sum](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2630-alternating-digit-sum) |
+| [2812-find-the-maximum-achievable-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Enumeration
 |  |
