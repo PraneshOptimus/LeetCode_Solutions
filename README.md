@@ -50,6 +50,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -57,12 +58,14 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0389-find-the-difference](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0953-reverse-only-letters) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1319-unique-number-of-occurrences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -98,6 +101,7 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
