@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [0817-design-hashmap](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -115,4 +117,16 @@
 |  |
 | ------- |
 | [0953-reverse-only-letters](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0953-reverse-only-letters) |
+## Linked List
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0817-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0817-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
