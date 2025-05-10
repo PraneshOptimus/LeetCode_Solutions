@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
