@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0500-keyboard-row) |
 | [0817-design-hashmap](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0500-keyboard-row) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0953-reverse-only-letters) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0500-keyboard-row) |
 | [0817-design-hashmap](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
