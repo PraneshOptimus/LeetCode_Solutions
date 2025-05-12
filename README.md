@@ -53,6 +53,7 @@
 | [2058-concatenation-of-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2639-separate-the-digits-in-an-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2639-separate-the-digits-in-an-array) |
+| [2886-faulty-keyboard](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2886-faulty-keyboard) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0953-reverse-only-letters) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2886-faulty-keyboard](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2886-faulty-keyboard) |
 ## Hash Table
 |  |
 | ------- |
