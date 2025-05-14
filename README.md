@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0260-single-number-iii) |
 | [0500-keyboard-row](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0500-keyboard-row) |
 | [0817-design-hashmap](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -115,6 +116,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
