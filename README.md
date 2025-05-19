@@ -16,6 +16,7 @@
 | [2298-count-integers-with-even-digit-sum](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2630-alternating-digit-sum](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2630-alternating-digit-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2812-find-the-maximum-achievable-number) |
+| [3321-type-of-triangle](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Enumeration
 |  |
@@ -44,6 +45,7 @@
 | [2398-check-if-matrix-is-x-matrix](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2639-separate-the-digits-in-an-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2639-separate-the-digits-in-an-array) |
+| [3321-type-of-triangle](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Simulation
@@ -64,6 +66,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3321-type-of-triangle](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
