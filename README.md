@@ -37,6 +37,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1635-number-of-good-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
@@ -139,4 +140,8 @@
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0817-design-hashmap) |
+## Prefix Sum
+|  |
+| ------- |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
