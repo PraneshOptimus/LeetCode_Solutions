@@ -1,20 +1,20 @@
 class Solution {
     public String generateTheString(int n) {
-        String a="";
+        StringBuilder a=new StringBuilder();
         if(n%2==0)
         {
             for(int i=1;i<n;i++)
             {
-                a+="a";
+                a.append("a");
             }
-            a+="b";
+            a.append("b");
         }
         else{
             for(int i=1;i<=n;i++)
             {
-                a+="a";
+                a.append("a");
             }
         }
-        return a;
+        return a.toString();
     }
 }
