@@ -8,6 +8,7 @@
 | [0233-number-of-digit-one](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0371-sum-of-two-integers](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1477-product-of-the-last-k-numbers](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
@@ -36,6 +37,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1477-product-of-the-last-k-numbers](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1635-number-of-good-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0817-design-hashmap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Hash Function
 |  |
 | ------- |
@@ -144,9 +147,14 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0812-rotate-string) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
