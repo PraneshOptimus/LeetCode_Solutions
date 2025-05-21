@@ -79,6 +79,7 @@
 | [0812-rotate-string](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0953-reverse-only-letters) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2886-faulty-keyboard](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2886-faulty-keyboard) |
 ## Hash Table
