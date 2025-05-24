@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0383-ransom-note](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0500-keyboard-row) |
 | [0812-rotate-string](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0812-rotate-string) |
@@ -87,6 +88,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0500-keyboard-row) |
 | [0817-design-hashmap](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0817-design-hashmap) |
@@ -98,6 +100,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
