@@ -48,6 +48,7 @@
 | [2398-check-if-matrix-is-x-matrix](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2639-separate-the-digits-in-an-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2639-separate-the-digits-in-an-array) |
+| [3194-find-words-containing-character](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -82,6 +83,7 @@
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2886-faulty-keyboard](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2886-faulty-keyboard) |
+| [3194-find-words-containing-character](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
