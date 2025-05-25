@@ -40,6 +40,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1524-string-matching-in-an-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
@@ -83,6 +84,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0953-reverse-only-letters) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1524-string-matching-in-an-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1894-merge-strings-alternately) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Data Stream
 |  |
