@@ -84,6 +84,7 @@
 | [0953-reverse-only-letters](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0953-reverse-only-letters) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1894-merge-strings-alternately](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1894-merge-strings-alternately) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2886-faulty-keyboard](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0953-reverse-only-letters](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0953-reverse-only-letters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1894-merge-strings-alternately](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1894-merge-strings-alternately) |
 ## Linked List
 |  |
 | ------- |
