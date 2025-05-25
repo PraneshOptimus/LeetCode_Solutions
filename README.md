@@ -78,6 +78,7 @@
 | [0383-ransom-note](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0500-keyboard-row) |
+| [0782-jewels-and-stones](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0953-reverse-only-letters) |
@@ -91,6 +92,7 @@
 | [0383-ransom-note](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0500-keyboard-row) |
+| [0782-jewels-and-stones](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/PraneshOptimus/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
